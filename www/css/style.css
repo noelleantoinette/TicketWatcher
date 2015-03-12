@@ -1,0 +1,31 @@
+/* Empty. Add your own CSS if you like */
+
+.indexpage{
+	font-family: Georgia;
+	font-color: #4D5E4B; 
+	background-color: #B8B5B2;
+}
+
+
+.menus{
+	font-family: Georgia;
+	font-color: #4D5E4B; 
+
+}
+
+.pagetop{
+	text-align: center;
+}
+
+input{
+	text-align: center;
+}
+
+.center{
+	text-align: center;
+}
+
+.platebg{
+	background-image: url('../img/ny-license-plate.jpg');
+	opacity: 50;
+}
